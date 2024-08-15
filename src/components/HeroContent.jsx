@@ -43,7 +43,7 @@ const HeroContent = () => {
                 <div className="space-y-2">
                   <p className="text-neutral-400">
                     <a
-                      href="https://drive.google.com/file/d/1dXeg4sWRAdf7B1AFGxLNnmv234ubwyS7/view?usp=sharing"
+                      href="https://drive.google.com/file/d/11ZfWQoo1_zkhTHrLrLcsWm0HSlBM8dE_/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                     >

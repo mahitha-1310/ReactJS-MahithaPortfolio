@@ -13,10 +13,6 @@ export const heroDetails = {
     "UI/UX Designer",
     "Programmer",
   ],
-  github: "https://github.com/rishavchanda",
-  resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
 };
 
 export const experience = [
@@ -140,7 +136,7 @@ export const projects = [
     title: "MEats - A Food Delivery Web Application",
     description:
       "Developed a food ordering web application built with the MERN stack, enabling users to browse menus, place orders, and manage their food delivery seamlessly, enhancing the overall experience.",
-    technologies: ["Node.js", "React", "MongoDB", "Express", "Tailwind CSS"],
+    technologies: ["Node.js", "React", "MongoDB", "Express", "Bootstrap"],
   },
   {
     image: qtrip,
