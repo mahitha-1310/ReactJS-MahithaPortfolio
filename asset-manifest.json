@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJS-MahithaPortfolio/static/css/main.b62088ae.css",
-    "main.js": "/ReactJS-MahithaPortfolio/static/js/main.1047b7fb.js",
+    "main.js": "/ReactJS-MahithaPortfolio/static/js/main.b2745852.js",
     "static/js/453.b53375de.chunk.js": "/ReactJS-MahithaPortfolio/static/js/453.b53375de.chunk.js",
     "static/media/qtrip.png": "/ReactJS-MahithaPortfolio/static/media/qtrip.f983bd1b6d4c218e5768.png",
     "static/media/mprompt.png": "/ReactJS-MahithaPortfolio/static/media/mprompt.c4cab50cf67c69bda3b7.png",
@@ -13,11 +13,11 @@
     "static/media/logo.png": "/ReactJS-MahithaPortfolio/static/media/logo.88214d3b102e613ad88a.png",
     "index.html": "/ReactJS-MahithaPortfolio/index.html",
     "main.b62088ae.css.map": "/ReactJS-MahithaPortfolio/static/css/main.b62088ae.css.map",
-    "main.1047b7fb.js.map": "/ReactJS-MahithaPortfolio/static/js/main.1047b7fb.js.map",
+    "main.b2745852.js.map": "/ReactJS-MahithaPortfolio/static/js/main.b2745852.js.map",
     "453.b53375de.chunk.js.map": "/ReactJS-MahithaPortfolio/static/js/453.b53375de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b62088ae.css",
-    "static/js/main.1047b7fb.js"
+    "static/js/main.b2745852.js"
   ]
 }
