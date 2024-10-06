@@ -6,7 +6,6 @@ import {
   SiMysql,
   SiNextdotjs,
   SiNodedotjs,
-  SiAngular,
 } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
@@ -72,15 +71,6 @@ const Technologies = () => {
         >
           <SiNodedotjs className="text-7xl text-green-500 mb-4" />
           <h1>Node.js</h1>
-        </motion.div>
-        <motion.div
-          variants={container(3.5)}
-          initial="initial"
-          animate="animate"
-          className="tech-box"
-        >
-          <SiAngular className="text-7xl text-red-500 mb-4" />
-          <h1>Angular</h1>
         </motion.div>
         <motion.div
           variants={container(4)}
